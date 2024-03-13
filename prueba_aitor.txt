@@ -1,0 +1,7 @@
+Hola
+<<<<<<< HEAD
+
+fecha hoy
+=======
+Buenas
+>>>>>>> 72e7165c3cf82f20977c9583f313e4da74ce34bb
